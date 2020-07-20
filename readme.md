@@ -1,1 +1,1 @@
-Ja sma tekst samo na novoj grani
+Master grana
