@@ -1,2 +1,1 @@
-Cao testeri
-Dodat text
+Ja sma tekst samo na novoj grani
